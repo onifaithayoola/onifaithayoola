@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Onifaithayoola 
+- 👋 Hi, I’m @onifaithayoola 
 - 👀 I’m interested in Software enineering and UI/UX design
 - 🌱 I’m currently a UI/UX designer
 - 💞️ I’m looking to collaborate on open source projects on ui/ux design

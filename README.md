@@ -1,6 +1,6 @@
 👋 Hi, I’m @onifaithayoola 
 
-📌 👀 I am a Developer Advocate. I want to be more audacious about sharing my knowledge by speaking publicly
+📌 I am a Developer Advocate. I want to be more audacious about sharing my knowledge by speaking publicly
 
 📌 I love to build a strong network of DevRel Experts and Professionals
 

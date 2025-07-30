@@ -1,8 +1,16 @@
-- 👋 Hi, I’m @onifaithayoola 
-- 👀 I’m interested in Software enineering and UI/UX design
-- 🌱 I’m currently a UI/UX designer
-- 💞️ I’m looking to collaborate on open source projects on ui/ux design
-- 📫 You can reach me through my mail at onifaithayoola@gmail.com
+👋 Hi, I’m @onifaithayoola 
+
+📌 👀 I am a Developer Advocate. I want to be more audacious about sharing my knowledge by speaking publicly
+
+📌 I love to build a strong network of DevRel Experts and Professionals
+
+📌 I would love to point others with similar interests in the right direction
+
+📌 I am looking to land a full-time role as a Developer Relations Manager or Advocate 🥑
+
+💞️ I’m looking to collaborate on open source projects in Developer Advocacy 🥑
+
+📫 You can reach me through my email at onifaithayoola@gmail.com
 
 <!---
 Onifaithayoola/Onifaithayoola is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
